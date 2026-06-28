@@ -1,0 +1,56 @@
+$date
+	Sun Jun 28 23:58:59 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module logic_gates_tb $end
+$var wire 1 ! y_xor $end
+$var wire 1 " y_or $end
+$var wire 1 # y_not $end
+$var wire 1 $ y_nor $end
+$var wire 1 % y_nand $end
+$var wire 1 & y_and $end
+$var reg 1 ' a $end
+$var reg 1 ( b $end
+$scope module dut $end
+$var wire 1 ' a $end
+$var wire 1 ( b $end
+$var wire 1 & y_and $end
+$var wire 1 % y_nand $end
+$var wire 1 $ y_nor $end
+$var wire 1 # y_not $end
+$var wire 1 " y_or $end
+$var wire 1 ! y_xor $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+0&
+1%
+1$
+1#
+0"
+0!
+$end
+#10000
+0$
+1"
+1!
+1(
+#20000
+0#
+0(
+1'
+#30000
+0%
+1&
+0!
+1(
+#40000
