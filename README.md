@@ -18,5 +18,5 @@ My journey learning Digital Design, Verilog, and VLSI. Documenting projects from
 
 \### Simulation Results:
 
-![Logic Gates Waveform]([Week1/Day1_LogicGates/waveform.png](https://github.com/afsalmohamedeng-oss/VLSI-Learning-Journey/blob/main/Week1/Day1_LogicGates/waveform.png?raw=true))
+!\[Logic Gates Waveform]([Week1/Day1_LogicGates/waveform.png](https://github.com/afsalmohamedeng-oss/VLSI-Learning-Journey/blob/main/Week1/Day1_LogicGates/waveform.png?raw=true))
 
